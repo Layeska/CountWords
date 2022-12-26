@@ -63,5 +63,6 @@ h5 {
 
 .button img {
     width: 100%;
+    -o-object-fit: fill;
     object-fit: fill;
 }
